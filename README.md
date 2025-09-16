@@ -4,7 +4,7 @@
 <div align="center"> 
     <picture>
         <source srcset="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=react&hide_border=true" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <source srcset="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: orange)"/>
         <img src="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=react&hide_border=true" />
     </picture>
     
