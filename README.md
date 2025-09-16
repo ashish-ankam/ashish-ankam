@@ -1,18 +1,13 @@
 ## Hi there 👋
 
-<h1>📊 GitHub stats</h1>
+<h1>📊 Ashish Ankam</h1>
 <div align="center"> 
     <picture>
         <source srcset="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=react&hide_border=true" media="(prefers-color-scheme: dark)"/>
         <source srcset="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://git-hub-streak-stats.vercel.app?user=ashish-ankam&theme=react&hide_border=true" />
     </picture>
-    <br/>
-    <picture>
-        <source srcset="https://git-hub-stats-one.vercel.app/api/top-langs/?username=ashish-ankam&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://git-hub-stats-one.vercel.app/api/top-langs/?username=ashish-ankam&theme=transparent&include_all_commits=true&count_private=true&layout=compact&langs_count=6" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://git-hub-stats-one.vercel.app/api/top-langs/?username=ashish-ankam&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
-    </picture>
+    
 </div>
 
 
