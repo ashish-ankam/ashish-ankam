@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashish-ankam&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-ankam)](https://github.com/ashish-ankam/github-readme-stats)
 <!--
 **ashish-ankam/ashish-ankam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
